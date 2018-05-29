@@ -1,37 +1,33 @@
-## 欢迎访问我的网站
+ 
+欢迎来到GitHub页面
 
-You can use the [editor on GitHub](https://github.com/sdsml/bolg.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+您可以使用GitHub上的编辑器在Markdown文件中维护和预览您网站的内容。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+无论何时您提交到此存储库，GitHub页面都将运行Jekyll以从您的Markdown文件中的内容中重建站点中的页面。
 
-### Markdown
+降价
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown是一种轻量级且易于使用的语法，用于设计您的文字。它包括约定
 
-```markdown
-Syntax highlighted code block
+语法突出显示的代码块＃头1名##头2 ###头3 -项目符
 
-# Header 1
-## Header 2
-### Header 3
+ -列表1.编号
 
-- Bulleted
-- List
+ 2.列表** **粗体和_Italic_和`Code`文本
 
-1. Numbered
-2. List
+[ 链接（URL）和[！图像 ]（ SRC）
 
-**Bold** and _Italic_ and `Code` text
+ 
+ 
 
-[Link](url) and ![Image](src)
-```
+ 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+欲了解更多信息，请参阅GitHub Flavored Markdown。
 
-### Jekyll Themes
+Jekyll主题
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sdsml/bolg.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+您的页面网站将使用您在存储库设置中选择的Jekyll主题的布局和样式。这个主题的名字保存在Jekyll _config.yml配置文件中
 
-### Support or Contact
+支持或联系
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+与页面有问题？查看我们的文档或联系支持人员
